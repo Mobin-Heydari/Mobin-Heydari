@@ -1,26 +1,38 @@
 ## Hi there! 👋
 
-I'm **Mobin Heydari**, an experienced web developer with a passion for creating dynamic and user-friendly web applications. Let's build something great together!
+I'm **Mobin Heydari**, an experienced web developer with a passion for building innovative and user-centric web applications. Let's collaborate and create something remarkable!
 
 ---
 
 ## About Me
 
-Based in **Tehran, Iran**, I specialize in web development and have a strong track record of delivering high-quality applications. My journey in tech has been both challenging and rewarding, and I'm always eager to learn more.
+Based in **Tehran, Iran**, I have dedicated my career to mastering the art of web development by delivering high-quality, scalable, and modern solutions. I blend technical proficiency with a commitment to continuous learning and teamwork to bring ideas to life. Whether working on complex backend systems or crafting engaging user interfaces, I thrive on the challenge of transforming concepts into reality.
 
 ---
 
 ## Skills & Technologies
 
-Here are the technologies I work with:
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+### Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
+![DRF](https://img.shields.io/badge/-DRF-092E20?logo=django&logoColor=white&style=flat&label=Django%20Rest%20Framework)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
 ---
 
@@ -55,29 +67,6 @@ Here are some of my top repositories:
 
 ---
 
-## Recent Activity
-
-Here's what I've been up to recently:
-
-- **Pushed** changes to [MaherKar](https://github.com/Mobin-Heydari/MaherKar) - Added serializers.
-- **Pushed** changes to [MaherKar](https://github.com/Mobin-Heydari/MaherKar) - Added admin profiles.
-- **Pushed** changes to [MaherKar](https://github.com/Mobin-Heydari/MaherKar) - Added employer profile model.
-- **Pushed** changes to [MaherKar](https://github.com/Mobin-Heydari/MaherKar) - Added job seekers profiles.
-- **Pushed** changes to [MaherKar](https://github.com/Mobin-Heydari/MaherKar) - Modified URLs.
-
----
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates!
-
----
-
 ## Connect with Me
 
-- [Instagram](https://instagram.com/mobin_heydarii)  
-- [YouTube](https://youtube.com/@mobinheydarii)
-
----
-
-Thank you for visiting my profile—happy coding! 🚀
+[LinkedIn](https://www.linkedin.com/in/mobin--heydari/)
