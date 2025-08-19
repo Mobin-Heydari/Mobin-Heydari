@@ -32,19 +32,10 @@ and I'm always looking to collaborate on exciting projects and open-source contr
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobin-Heydari&repo=Codingo-Plus-Platform&theme=radical" />
 </a>
 <a href="https://github.com/Mobin-Heydari?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobin-Heydari&repo=My-Portfolio&theme=radical" />
-</a>
-<a href="https://github.com/Mobin-Heydari?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobin-Heydari&repo=Sarat&theme=radical" />
 </a>
 <a href="https://github.com/Mobin-Heydari?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobin-Heydari&repo=Safir-Crane&theme=radical" />
-</a>
-<a href="https://github.com/Mobin-Heydari?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaherKar&repo=Safir-Crane&theme=radical" />
-</a>
-<a href="https://github.com/Mobin-Heydari?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaherKar&repo=Komack-Resan&theme=radical" />
 </a>
 
 ---
