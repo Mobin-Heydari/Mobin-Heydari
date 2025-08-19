@@ -1,72 +1,64 @@
-## Hi there! 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Mobin Heydari</h1>
+<h3 align="center">A passionate developer crafting creative digital solutions</h3>
 
-I'm **Mobin Heydari**, an experienced web developer with a passion for building innovative and user-centric web applications. Let's collaborate and create something remarkable!
+<!-- ABOUT -->
+## 💡 About Me
+I'm a curious and ambitious software developer from Tehran, Iran 🇮🇷.  
+I love solving real-world problems through clean and scalable code,  
+and I'm always looking to collaborate on exciting projects and open-source contributions.
 
----
-
-## About Me
-
-Based in **Tehran, Iran**, I have dedicated my career to mastering the art of web development by delivering high-quality, scalable, and modern solutions. I blend technical proficiency with a commitment to continuous learning and teamwork to bring ideas to life. Whether working on complex backend systems or crafting engaging user interfaces, I thrive on the challenge of transforming concepts into reality.
-
----
-
-## Skills & Technologies
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-### Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![DRF](https://img.shields.io/badge/-DRF-092E20?logo=django&logoColor=white&style=flat&label=Django%20Rest%20Framework)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
-
-### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+- 🔭 I’m currently working on: **[Your Current Project]**
+- 🌱 I’m learning: **Next.js, AI APIs, and Cloud Services**
+- 💬 Ask me about: **JavaScript, Python, Web Development**
+- ⚡ Fun fact: *I debug faster with coffee ☕*
 
 ---
 
-## Top Projects
-
-Here are some of my top repositories:
-
-- [MaherKar](https://github.com/Mobin-Heydari/MaherKar)  
-  - A user-friendly job portal application.  
-  - ⭐ 2 stars | 🛠️ Python  
-  - Forks: 0 | Open Issues: 0  
-
-- [My-portfolio](https://github.com/Mobin-Heydari/My-portfolio)  
-  - My personal portfolio showcasing my work.  
-  - ⭐ 1 star | 🛠️ TypeScript  
-  - Forks: 0 | Open Issues: 0  
-
-- [FardaCode](https://github.com/Mobin-Heydari/FardaCode)  
-  - A coding platform for developers.  
-  - ⭐ 1 star | 🛠️ Python  
-  - Forks: 0 | Open Issues: 0  
+<!-- SKILLS -->
+## 🛠 Skills
+**Languages:** JavaScript, Python, C++  
+**Frameworks:** React.js, Next.js, Node.js  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Tools & Platforms:** Git, Docker, Firebase, Vercel  
+**Other:** REST APIs, GraphQL, WebSockets
 
 ---
 
-## GitHub Stats
-
-🔧 **Public Repositories:** 12  
-👥 **Followers:** 95  
-👤 **Following:** 189  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mobin-Heydari&show_icons=true&theme=radical)
+<!-- PROJECTS & REPOS -->
+## 🚀 Projects & Recent Repos
+<!-- GitHub Readme Stats: Pinned Repositories -->
+<a href="https://github.com/Mobin-Heydari?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobin-Heydari&repo=YOUR_REPO_NAME&theme=radical" />
+</a>
+<a href="https://github.com/Mobin-Heydari?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mobin-Heydari&repo=ANOTHER_REPO_NAME&theme=radical" />
+</a>
 
 ---
 
-## Connect with Me
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mobin-Heydari&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobin-Heydari&theme=radical" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Heydari&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/mobin--heydari/)
+---
+
+<!-- CONNECT -->
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/mobin--heydari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://t.me/@MY_NAME_IS_SECOND_MOBIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  <a href="mailto:mobinheydari.developer@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
